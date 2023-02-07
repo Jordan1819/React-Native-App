@@ -7,7 +7,7 @@ The CSS and UI styling can be found within components/css.
 
 The launch point for this application is React-Native-App/App.js
 
-The design of this app features injerited CSS styling as well as JavaScript.
+The design of this app features inherited CSS styling as well as JavaScript.
 
 This is a responsive application that features a custom view for both tablets and smartphones.
 
